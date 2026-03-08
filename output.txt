@@ -1,0 +1,12 @@
+Reverse Array
+This program reverses the elements of an array and prints the reversed array.
+Example:
+Input Array: 10 20 30 40 50
+Output Array: 50 40 30 20 10
+Find Vowels in Array
+This program checks a character array and identifies the vowels present in the array. 
+It uses conditional statements to compare each character with vowels (a, e, i, o, u) 
+and counts how many vowels exist.
+Example:  
+Input Array: a b e g i o u k  
+Output: Number of vowels = 5
